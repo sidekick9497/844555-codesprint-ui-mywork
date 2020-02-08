@@ -1,0 +1,20 @@
+My associate id:
+844555
+Other team members:
+844505, 844504, 844572.
+Team lead:
+844555
+My Role in team:
+1. To develop landing page, localstorage implementation and overal styling and asthetics.
+My development files:
+1. index.html
+2. style.css
+4. script.js
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4. javascript
+
+Feedback:
+1. Providing the information about basis of evaluation would be little helpful.
